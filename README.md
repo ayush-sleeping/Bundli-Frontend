@@ -408,10 +408,10 @@ You can refer to the following articles on the basics of Git and Github and also
     <a href="https://github.com/Ayush7614"><img src="https://github.com/siddhi-244/Bundli-Frontend/blob/3f0ae3743653f6a7426d4fb94bcf0c2eeb145185/Screenshots/Payment-integration.png" /></a>
 </p>
 
-### 57. Gradient_Background_Generator
+### 57. Gradient Background Generator
 
 <p align="center">
-     <a href="https://github.com/Ayush7614"><img src="https://github.com/varunwho/Bundli-Frontend/blob/178af0b6ab287f25af311f4a8ef2556c2534b650/Screenshots/Background%20Generator.png" /></a>
+     <a href="https://github.com/Ayush7614"><img src="https://raw.githubusercontent.com/Ayush7614/Bundli-Frontend/main/Screenshots/Background%20Generator.png" /></a>
 </p>
 
 ### 58. Glassmorphisam Profile Card
@@ -780,11 +780,33 @@ You can refer to the following articles on the basics of Git and Github and also
 
 ### 117. Binary Clock
 <p align="center">
-    <a href="https://github.com/Ayush7614"><img src="https://github.com/rene-ph/Bundli-Frontend/blob/main/binary-clock/Binary.png" /></a></a>
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Bundli-Frontend/blob/main/binary-clock/Binary.PNG" alt="Binary Clock" /></a></a>
 </p>
 
+### 118. Image Gallery
+<p align="center">
+    <a href="https://aritra777.github.io/Art-Gallary/" target="_blank"><img src="./Image-Gallery/Fine_Arts.png" /></a>
+</p>
+
+### 119. Google Search Engine Clone
+<p align="center">
+     <a href="https://github.com/gurjeetsinghvirdee/Google-Clone"><img src="https://github.com/gurjeetsinghvirdee/Bundli-Frontend/blob/google-clone/Google-Search-Engine-Clone/src/Images/Screenshot%20(696).png">
+    </a>
+</p>
+
+### 120. GST Calculator
+<p align="center">
+     <a href="https://babyelias.github.io/GST_Calculator/"><img src="https://github.com/BabyElias/GST_Calculator/blob/main/imagee.PNG">
+    </a>
+</p>
 > **_Need help? Feel free to contact me @ [ayushknj3@gmail.com](mailto:ayushknj3@gmail.com?Subject=Bundli-Frontend)_**
 
+
+### 121. Wikipedia Clone
+<p align="center">
+     <a href="https://kumar-laxmi.github.io/Wikipedia-Clone/"><img src="./Wikipedia-Clone/img/ScreenShot.png" alt="Wikipedia-Clone"></a>
+</p>
+ 
 ## Stargazers over time 🤗
 
 [![Stargazers over time](https://starchart.cc/Ayush7614/Bundli-Frontend.svg)](https://starchart.cc/Ayush7614/Bundli-Frontend)
